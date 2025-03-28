@@ -66,6 +66,8 @@ Tipos de activos de una organización: el humano y la gestión del conocimiento 
 ### 🚀 **Easy Innovation Spain** *(actualmente parte de HTEC)*  
 📍 **Puesto:** Becario  
 🔹 Desarrollo de script para recolección de raw data de drone autonomo (dos cámaras y un radar)
+![IMG_3955](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)
+GPU NVIDIA JETSON NANO 
 🔹 Procesamiento de datos en Python para limpiar datos de sensores custom... 
 🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET. 
 <img width="523" alt="DIAGRAMABLOQ" src="https://github.com/user-attachments/assets/332f8d2b-1b64-4234-a3e3-4f805d3ef6c6" />
