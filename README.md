@@ -24,8 +24,7 @@
 <img width="551" alt="image2" src="https://github.com/user-attachments/a<img width="507" alt="image3" src="https://github.com/user-attachments/assets/23735b22-9905-41a5-850a-424512a736f4" />
 ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
 <img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
-Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar parámetros o marcadores que podamos interprentar como humanos.
-
+Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar parámetros o marcadores que podamos interprentar como output utilizable y valioso.
 
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
 
