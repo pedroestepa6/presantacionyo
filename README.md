@@ -16,9 +16,11 @@
 
    Dejando la reflexión para más pongamos de manifiesto algún proyecto que ha surgido de mi imaginación:
 
-TRABAJO FINAL PSRT (Programación de Sistemas Empotrados y de Tiempo Real): MEDICIÓN DE PARÁMETROS FISIOLÓGICOS A TRAVÉS DE DISPOSITIVOS WEARABLES
-
+##TRABAJO FINAL PSRT (Programación de Sistemas Empotrados y de Tiempo Real): MEDICIÓN DE PARÁMETROS FISIOLÓGICOS A TRAVÉS DE DISPOSITIVOS WEARABLES
+- Cloud almacenamiento datos. API Firebase para Arduino.
+- Análisis y monitoreo de señales con fines médicos o fisiológicos.
 ![alt text](image.png)![image](https://github.com/user-attachments/assets/9f9b3676-f624-4c19-a389-a5476e11873c)
+- Análisis y monitoreo de señales con fines médicos o fisiológicos.
 <img width="551" alt="image2" src="https://github.com/user-attachments/a<img width="507" alt="image3" src="https://github.com/user-attachments/assets/23735b22-9905-41a5-850a-424512a736f4" />
 ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
 <img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
