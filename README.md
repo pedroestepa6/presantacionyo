@@ -21,8 +21,8 @@ TRABAJO FINAL PSRT (Programación de Sistemas Empotrados y de Tiempo Real): MEDI
 ![alt text](image.png)![image](https://github.com/user-attachments/assets/9f9b3676-f624-4c19-a389-a5476e11873c)
 <img width="551" alt="image2" src="https://github.com/user-attachments/a<img width="507" alt="image3" src="https://github.com/user-attachments/assets/23735b22-9905-41a5-850a-424512a736f4" />
 ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
-<img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" src="https://github.com/user-attachments/assets/6789dea0-7dba-42d9-89b7-b0927cc0ab67" />
-ssets/c2a0a1ee-335b-488a-8a34-2daf0cecb3c3" />
+<img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
+
 
 
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
