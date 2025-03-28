@@ -18,7 +18,9 @@
     
 ![image](https://github.com/user-attachments/assets/f3931429-5869-415e-ad49-0a18e43ca3ef)
   
-   *  Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Concienciaión y compromiso de desarrollar y consumir productos sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable. De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
+   *  Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Conciencia y compromiso COMO INGENIERO de desarrollar y consumir productos y material sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable.
+
+   *    De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
     
   * La tecnología cada vez es mejor en cuestiones específicas. Cumplir tareas repetitivas es robótivo. Manejo de datos. Sustitición de personal en fábricas con puestos mecánicos con brazos robots junto sensores de monitorización. La naturaleza muchas veces te envía marcadores para que puedas intetrprentarla.
     
@@ -42,6 +44,8 @@ ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
 <img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
 Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar parámetros o marcadores que podamos interprentar como output utilizable y valioso.
 
+![image](https://github.com/user-attachments/assets/027e8888-7d26-420a-b234-7c0368caf658)
+
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
 
    
@@ -56,20 +60,17 @@ Asignatura sobre el tratamiento de los frames. Visión por computador. tratamien
 🔹 Sistemas Electrónicos Integrados  : FPGA de AMD, trabajo final sobre placa IA AMD 
 ![image](https://github.com/user-attachments/assets/8177736b-eb80-41a0-9f45-abce24355aa8)
 Placa Kria IA ejemplo de plataforma precompilado compatible con muchas herramientas para una fácil customización con pacla de evalución.
-🔹 Proyectos de Telecomunicación  
-Gentión temporal de proyectos.
-Tipos de activos de una organización: el humano y la gestión del conocimiento se consideran importantes pero no son tanjibles obviamente.
-Ajuste de perspectiva en el empleo.
+🔹 Proyectos de Telecomunicación  I: Gentión temporal de proyectos, conciencia de tipos de activos de una organización: el humano, la gestión del conocimiento, escucha activa, situaciones i/reales... Orientación en el empleo en el empleo.
 ---
 
 ## 💼 **Experiencia Profesional**  
 ### 🚀 **Easy Innovation Spain** *(actualmente parte de HTEC)*  
 📍 **Puesto:** Becario  
 🔹 Desarrollo de script para recolección de raw data de drone autonomo GPU NVIDIA JETSON NANO 
- (dos cámaras y un radar) FOTO PRUEBA DE VUELO:
+ (dos cámaras 3D, radar, GPS) recuerdo prueba de vuelo en aeródromo:
 ![IMG_3955](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)
 
-🔹 Procesamiento de datos en Python para limpiar datos de sensores custom... 
+🔹 Procesamiento de datos en Python para limpiar datos de sensores custom y darle casos de uso IMU (inertial Measurement Unit)... 
 
 🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET.
 Microcontrolador : NGC-1081
@@ -82,4 +83,9 @@ Prototipo final TFG
 App Android para configuración y lectura de flags/alerta programada en Kotlin utilizando NFC.
 ![configuredd](https://github.com/user-attachments/assets/d7c33961-ed8f-4fdc-84cc-5bb1cfcf0c7a)
 
+Configuración umbrales de alerta firmware para la etiqueta
+![image](https://github.com/user-attachments/assets/3ce6481c-b9e0-4366-bec8-82fc09e5e1d4)
+
+Diagrama Firmware
+![image](https://github.com/user-attachments/assets/c3f26561-c71c-4332-96ff-8a9d83beeac5)
 
