@@ -52,6 +52,8 @@ Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar 
    Las señales analógicas, por ejemplo de audio, 1. Se muestrea audio haciendo resonar un componente electrónico (piexoelectrico) que vibrará proporcional a las sucesivas muestras que se irán alacenando en algún tipo de momoria (servicios: música, radio, conferencia: señal física-señal eléctrica(micrófono) señal electrica-física(altavoz). COMPROMISO Y TOMAR LOS PROBLEMAS DE FORMA AMBIGUA ES LA CLAVE.
    - Arquitecturas Avanzadas para Telecomunicaciones
      Asignatura de DSP (DIGITAL SIGNAL PROCESSOR) el cual presenta arquitecturas de cómputo eficientes para ciertas operaciones (ej. multoiplicacion acumulación arquitecturas especiales para el computo en tiempo real de filtros FIR)
+     ![image](https://github.com/user-attachments/assets/14a4a7e3-3d41-4b6d-a725-d3286707b971)
+
      Trabajo final sobre usar MATLAB Y EL C MATLAB CODER PARA GENERAR LIBRERIAS EJECUTABLES EN NUESTREOS embdded systems. (Inferencia modelos Machine Learning y redes neuronales artificiales) 
    - Procesamiento Digital de Video  
 Asignatura sobre el tratamiento de los frames. Visión por computador. tratamiento como imagen representada por tres capas: RGB de cierta resulución a la que aplicando máscaras de cierto tipo podemos aplicar operaciones a imagenes.
