@@ -59,56 +59,28 @@ Asignatura sobre el tratamiento de los frames. Visión por computador. tratamien
 Placa Kria IA ejemplo de plataforma precompilado compatible con muchas herramientas para una fácil customización con pacla de evalución.
 🔹 Proyectos de Telecomunicación  
 Gentión temporal de proyectos.
-Tipos de activos de una organización: el humano y la gestión del conocimiento se consideran importantes pero no son tanjibles obviamente. 
+Tipos de activos de una organización: el humano y la gestión del conocimiento se consideran importantes pero no son tanjibles obviamente.
+Ajuste de perspectiva en el empleo.
 ---
 
 ## 💼 **Experiencia Profesional**  
 ### 🚀 **Easy Innovation Spain** *(actualmente parte de HTEC)*  
 📍 **Puesto:** Becario  
-🔹 Desarrollo de script para recolección de raw data de drone autonomo (dos cámaras y un radar)
+🔹 Desarrollo de script para recolección de raw data de drone autonomo GPU NVIDIA JETSON NANO 
+ (dos cámaras y un radar) FOTO PRUEBA DE VUELO:
 ![IMG_3955](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)
-GPU NVIDIA JETSON NANO 
+
 🔹 Procesamiento de datos en Python para limpiar datos de sensores custom... 
-🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET. 
+
+🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET.
+Microcontrolador : NGC-1081
+Sensor tº y hº shtx. Diagrama de bloques
 <img width="523" alt="DIAGRAMABLOQ" src="https://github.com/user-attachments/assets/332f8d2b-1b64-4234-a3e3-4f805d3ef6c6" />
 
+Prototipo final TFG
 ![Imagen de WhatsApp 2024-06-17 a las 17 29 01_c23a8251](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)
 
+App Android para configuración y lectura de flags/alerta programada en Kotlin utilizando NFC.
 ![configuredd](https://github.com/user-attachments/assets/d7c33961-ed8f-4fdc-84cc-5bb1cfcf0c7a)
 
 
----
-
-## 🛠 **Habilidades Técnicas & Especialización**  
-✅ **Sistemas Embebidos & Tiempo Real**  
-✅ **Arquitecturas Avanzadas & Procesamiento Digital**  
-✅ **Gestión de Proyectos & Metodologías Ágiles**  
-✅ **Innovación en 5G, IoT y Aplicaciones de IA**  
-
----
-
-## 🌍 **Compromiso & Filosofía Personal**  
-> **"La IA no es el fin; la humanidad es el valor final.  
-> Transformo la complejidad en soluciones optimizadas,  
-> aplicando mi conocimiento y pasión para generar un impacto real y sostenible.  
-> Mi compromiso es impulsar la innovación con propósito,  
-> donde mi crecimiento es compartido y la tecnología se convierte en un bien común."**  
-
----
-
-## 🚀 **Actitud & Visión**  
-🔹 *“Soy lo que buscan”*  
-🔹 Perspectiva integral: Técnica + Humanidad  
-🔹 Adaptabilidad ante los desafíos actuales y futuros  
-🔹 Determinación por crear aplicaciones y sistemas con impacto real  
-
----
-
-## 📩 **Contacto & Disponibilidad**  
-📍 **Ubicación:** Málaga (o remoto)  
-💡 Listo para contribuir al éxito de **Connect44**  
-📅 Disponible para entrevista 📞  
-
----
-
-✨ **Comprometido con la innovación, la tecnología y el bienestar común.**  
