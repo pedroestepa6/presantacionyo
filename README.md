@@ -9,7 +9,15 @@
 ### 🎓 **Ingeniería en Telecomunicaciones** – *Universidad de Granada*  
 🔹 **Mención:** Sistemas de Telecomunicación  
 🔹 **Algunas asignaturas optativas cursadas y APRENDIZAJE DE ESTAS PARA prospectiva laboral :**  
-   
+
+   * - Sistemas eléctronicos integrados: Trabajo final utilizando micro PIC para implementación del famoso juego del tetris.
+     - ![image](https://github.com/user-attachments/assets/b32e206c-2f2c-44f7-9389-d23137d735f8)
+
+    
+     - Interfaces gráficas con diseño adaptado a los recursos micro PIC con timers que activarán interrupciones que controlaremos el movimiento de la ficha (tetromino) con la señal de control más sencilla: un botón que según cual pulsemos activaremos una interrupción por tanto el sistema evolucion a partir de tu suerte en condiciones iniciales y la evolución según nuestras decisiones nos llevarán na jugar hasta ganar o perder. Una situación acompañada de una decisión en el juego determina en parte la siguiente .y eso puede marcar una tendencia dentro de una partida.
+    
+    ![image](https://github.com/user-attachments/assets/c253d234-6fae-4d8b-92c5-adbe9e3d3417)
+  
    * - Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Concienciaión y compromiso de desarrollar y consumir productos sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable. De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
     
      - La tecnología cada vez es mejor en cuestiones específicas. Cumplir tareas repetitivas es robótivo. Manejo de datos. Sustitición de personal en fábricas con puestos mecánicos con brazos robots junto sensores de monitorización. La naturaleza muchas veces te envía marcadores para que puedas intetrprentarla.
