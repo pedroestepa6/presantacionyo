@@ -47,22 +47,33 @@ Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar 
 
    
    Las señales analógicas, por ejemplo de audio, 1. Se muestrea audio haciendo resonar un componente electrónico (piexoelectrico) que vibrará proporcional a las sucesivas muestras que se irán alacenando en algún tipo de momoria (servicios: música, radio, conferencia: señal física-señal eléctrica(micrófono) señal electrica-física(altavoz). COMPROMISO Y TOMAR LOS PROBLEMAS DE FORMA AMBIGUA ES LA CLAVE.
-   - Arquitecturas Avanzadas para Telecomunicaciones  s
+   - Arquitecturas Avanzadas para Telecomunicaciones
+     Asignatura de DSP (DIGITAL SIGNAL PROCESSOR) el cual presenta arquitecturas de cómputo eficientes para ciertas operaciones (ej. multoiplicacion acumulación arquitecturas especiales para el computo en tiempo real de filtros FIR)
+     Trabajo final sobre usar MATLAB Y EL C MATLAB CODER PARA GENERAR LIBRERIAS EJECUTABLES EN NUESTREOS embdded systems. (Inferencia modelos Machine Learning y redes neuronales artificiales) 
    - Procesamiento Digital de Video  
-
+Asignatura sobre el tratamiento de los frames. Visión por computador. tratamiento como imagen representada por tres capas: RGB de cierta resulución a la que aplicando máscaras de cierto tipo podemos aplicar operaciones a imagenes.
 ### 🎓 **Máster en Telecomunicaciones**  
-🔹 Complementos en Electrónica & Telemática  
-🔹 Sistemas Electrónicos Integrados  
+🔹 Complementos en Electrónica & Telemática : asignaturas sobre las 2 menciones no cursadas en el grado.
+🔹 Sistemas Electrónicos Integrados  : FPGA de AMD, trabajo final sobre placa IA AMD 
+![image](https://github.com/user-attachments/assets/8177736b-eb80-41a0-9f45-abce24355aa8)
+Placa Kria IA ejemplo de plataforma precompilado compatible con muchas herramientas para una fácil customización con pacla de evalución.
 🔹 Proyectos de Telecomunicación  
-
+Gentión temporal de proyectos.
+Tipos de activos de una organización: el humano y la gestión del conocimiento se consideran importantes pero no son tanjibles obviamente. 
 ---
 
 ## 💼 **Experiencia Profesional**  
 ### 🚀 **Easy Innovation Spain** *(actualmente parte de HTEC)*  
-📍 **Puesto:** Ingeniero en Innovación y Desarrollo  
-🔹 Desarrollo de soluciones en telecomunicaciones y tecnología avanzada  
-🔹 Aplicación de metodologías ágiles para optimización de procesos  
-🔹 Integración de nuevas tecnologías en entornos dinámicos  
+📍 **Puesto:** Becario  
+🔹 Desarrollo de script para recolección de raw data de drone autonomo (dos cámaras y un radar)
+🔹 Procesamiento de datos en Python para limpiar datos de sensores custom... 
+🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET. 
+<img width="523" alt="DIAGRAMABLOQ" src="https://github.com/user-attachments/assets/332f8d2b-1b64-4234-a3e3-4f805d3ef6c6" />
+
+![Imagen de WhatsApp 2024-06-17 a las 17 29 01_c23a8251](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)
+
+![configuredd](https://github.com/user-attachments/assets/d7c33961-ed8f-4fdc-84cc-5bb1cfcf0c7a)
+
 
 ---
 
