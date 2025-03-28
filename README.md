@@ -8,11 +8,20 @@
 ## 🏛 **Educación & Formación**  
 ### 🎓 **Ingeniería en Telecomunicaciones** – *Universidad de Granada*  
 🔹 **Mención:** Sistemas de Telecomunicación  
-🔹 **Algunas asignaturas optativas y prospectiva laboral :**  
-   - Programación de Sistemas Empotrados y de Tiempo Real: Concienciaión y compromiso de desarrollar y consumir productos sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable. El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema ayudará realmente a escoger diagramas o esquemas de repaartición de flujos de instrucciones de forma inteligente. 
+🔹 **Algunas asignaturas optativas cursadas y APRENDIZAJE DE ESTAS PARA prospectiva laboral :**  
+   
+   * - Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Concienciaión y compromiso de desarrollar y consumir productos sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable. De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
+    
+     - La tecnología cada vez es mejor en cuestiones específicas. Cumplir tareas repetitivas es robótivo. Manejo de datos. Sustitición de personal en fábricas con puestos mecánicos con brazos robots junto sensores de monitorización. La naturaleza muchas veces te envía marcadores para que puedas intetrprentarla.
+    
+     - Necesidad de ingenieros que sean conscientes y estén en tendecia de herramientas de IA y lo usen para su trabajo de forma recurrente para ampliar e implementar su idea ahorrando tareas perezosas de picar código que no aportan riqueza al proyecto.
+     - Conocimiento de herramientas optimizadas de Linux para filtración de datos.
+     - Una organización repartida por nodos estratégicos.
    
    
-   (EJEMPLO: ESCENARIOS DISTINTOS SEGÚN TIPO DE INFO QUE MANEJA LA RED. 1. Según el esquema de la red (esquemas: cliente-servidor peer-to-peer) 2. Depende de la comunicación física (qué canal dispongo: multitrayectoria con ruido o fibra óptica con ancho de banda infinito -> este segundo caso me intentaría centrar en el hardware y lo que podemos hacer con esa cantidad de información que se transmite que un humano con el lenguaje no podría llegar a transmitir en cantidad de información por segundo relacionando matemáticamente la información con la probalidad extrapolable a por ejemplo posibles comunicaciones especificas en los que existen mensajes para servir a un protocolo de comunicación. una optimización como la de los códigos binarios  información que el fallo de un bit arruinará la decodificación )) 2.Segun si se transmite info analògica (musica en directo por la radio, videostreaming para poder tener una reunión entre varios miembros quizás podemos permitir ahorrar ciertos recursos que no necesitamos para esa app concreta.
+   (EJEMPLO: ESCENARIOS DISTINTOS SEGÚN TIPO DE INFO QUE MANEJA LA RED. 1. Según el esquema de la red (esquemas: cliente-servidor peer-to-peer) 2. Depende de la comunicación física (qué canal dispongo: multitrayectoria con ruido o fibra óptica con ancho de banda infinito -> este segundo caso me intentaría centrar en el hardware y lo que podemos hacer con esa cantidad de información que se transmite que un humano con el lenguaje no podría llegar a transmitir en cantidad de información por segundo relacionando matemáticamente la información con la probalidad extrapolable a por ejemplo posibles comunicaciones especificas en los que existen mensajes para servir a un protocolo de comunicación. una optimización como la de los códigos binarios  información que el fallo de un bit arruinará la decodificación )) 2.Segun si se transmite info analògica (musica en directo por la radio, videostreaming para poder tener una reunión entre varios miembros quizás podemos permitir ahorrar ciertos recursos que no necesitamos para esa app concreta. SISTEMAS MODULARES utilizados de plataforma de soporte para cada aplicacion específica la cual cuanto más controlemos la customización mejor.
+
+   
 
    Dejando la reflexión para más pongamos de manifiesto algún proyecto que ha surgido de mi imaginación:
 
@@ -29,8 +38,8 @@ Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar 
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
 
    
-   Hay señales analógicas, que digiyal   
-   - Arquitecturas Avanzadas para Telecomunicaciones  
+   Las señales analógicas, por ejemplo de audio, 1. Se muestrea audio haciendo resonar un componente electrónico (piexoelectrico) que vibrará proporcional a las sucesivas muestras que se irán alacenando en algún tipo de momoria (servicios: música, radio, conferencia: señal física-señal eléctrica(micrófono) señal electrica-física(altavoz). COMPROMISO Y TOMAR LOS PROBLEMAS DE FORMA AMBIGUA ES LA CLAVE.
+   - Arquitecturas Avanzadas para Telecomunicaciones  s
    - Procesamiento Digital de Video  
 
 ### 🎓 **Máster en Telecomunicaciones**  
