@@ -16,7 +16,7 @@
     
      - Interfaces gráficas con diseño adaptado a los recursos micro PIC con timers que activarán interrupciones que controlaremos el movimiento de la ficha (tetromino) con la señal de control más sencilla: un botón que según cual pulsemos activaremos una interrupción por tanto el sistema evolucion a partir de tu suerte en condiciones iniciales y la evolución según nuestras decisiones nos llevarán na jugar hasta ganar o perder. Una situación acompañada de una decisión en el juego determina en parte la siguiente .y eso puede marcar una tendencia dentro de una partida.
     
-    ![image](https://github.com/user-attachments/assets/c253d234-6fae-4d8b-92c5-adbe9e3d3417)
+![image](https://github.com/user-attachments/assets/f3931429-5869-415e-ad49-0a18e43ca3ef)
   
    * - Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Concienciaión y compromiso de desarrollar y consumir productos sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable. De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
     
