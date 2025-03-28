@@ -1,4 +1,4 @@
-# presantacionyo# 📌 Expansión info Curriculum Vitae  
+# CV # Ingeniero 📌 CARTA PRESENTACIÓN   
 ## **Pedro Ángel Estepa García**  
 **Ingeniero en tecnologías de Telecomunicación**  
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04| 🌍 https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/
@@ -10,11 +10,11 @@
 🔹 **Mención:** Sistemas de Telecomunicación  
 🔹 **Algunas asignaturas optativas cursadas y APRENDIZAJE DE ESTAS PARA prospectiva laboral :**  
 
-   * - Sistemas eléctronicos integrados: Trabajo final utilizando micro PIC para implementación del famoso juego del tetris.
-     - ![image](https://github.com/user-attachments/assets/b32e206c-2f2c-44f7-9389-d23137d735f8)
+   * Sistemas eléctronicos integrados: Trabajo final utilizando micro PIC para implementación del famoso juego del tetris.
+      ![image](https://github.com/user-attachments/assets/b32e206c-2f2c-44f7-9389-d23137d735f8)
 
     
-     - Interfaces gráficas con diseño adaptado a los recursos micro PIC con timers que activarán interrupciones que controlaremos el movimiento de la ficha (tetromino) con la señal de control más sencilla: un botón que según cual pulsemos activaremos una interrupción por tanto el sistema evolucion a partir de tu suerte en condiciones iniciales y la evolución según nuestras decisiones nos llevarán na jugar hasta ganar o perder. Una situación acompañada de una decisión en el juego determina en parte la siguiente .y eso puede marcar una tendencia dentro de una partida.
+    * Interfaces gráficas con diseño adaptado a los recursos micro PIC con timers que activarán interrupciones que controlaremos el movimiento de la ficha (tetromino) con la señal de control más sencilla: un botón que según cual pulsemos activaremos una interrupción por tanto el sistema evolucion a partir de tu suerte en condiciones iniciales y la evolución según nuestras decisiones nos llevarán na jugar hasta ganar o perder. Una situación acompañada de una decisión en el juego determina en parte la siguiente .y eso puede marcar una tendencia dentro de una partida.
     
 ![image](https://github.com/user-attachments/assets/f3931429-5869-415e-ad49-0a18e43ca3ef)
   
