@@ -41,14 +41,14 @@ Dejando la reflexión para más pongamos de manifiesto algún proyecto que ha su
 - Análisis y monitoreo de señales con fines médicos o fisiológicos.
 <img width="551" alt="image2" src="https://github.com/user-attachments/a<img width="507" alt="image3" src="https://github.com/user-attachments/assets/23735b22-9905-41a5-850a-424512a736f4" />
 ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
-<img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
 Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar parámetros o marcadores que podamos interprentar como output utilizable y valioso.
 
 ![image](https://github.com/user-attachments/assets/027e8888-7d26-420a-b234-7c0368caf658)
 
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
 
-   
+   <img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
+
    Las señales analógicas, por ejemplo de audio, 1. Se muestrea audio haciendo resonar un componente electrónico (piexoelectrico) que vibrará proporcional a las sucesivas muestras que se irán alacenando en algún tipo de momoria (servicios: música, radio, conferencia: señal física-señal eléctrica(micrófono) señal electrica-física(altavoz). COMPROMISO Y TOMAR LOS PROBLEMAS DE FORMA AMBIGUA ES LA CLAVE.
    - Arquitecturas Avanzadas para Telecomunicaciones
      Asignatura de DSP (DIGITAL SIGNAL PROCESSOR) el cual presenta arquitecturas de cómputo eficientes para ciertas operaciones (ej. multoiplicacion acumulación arquitecturas especiales para el computo en tiempo real de filtros FIR)
