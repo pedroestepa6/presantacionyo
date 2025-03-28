@@ -57,6 +57,8 @@ Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar 
      Trabajo final sobre usar MATLAB Y EL C MATLAB CODER PARA GENERAR LIBRERIAS EJECUTABLES EN NUESTREOS embdded systems. (Inferencia modelos Machine Learning y redes neuronales artificiales) 
    - Procesamiento Digital de Video  
 Asignatura sobre el tratamiento de los frames. Visión por computador. tratamiento como imagen representada por tres capas: RGB de cierta resulución a la que aplicando máscaras de cierto tipo podemos aplicar operaciones a imagenes.
+![image](https://github.com/user-attachments/assets/2f88482c-335d-409d-b42c-9c003f8bf155)
+
 ### 🎓 **Máster en Telecomunicaciones**  
 🔹 Complementos en Electrónica & Telemática : asignaturas sobre las 2 menciones no cursadas en el grado.
 🔹 Sistemas Electrónicos Integrados  : FPGA de AMD, trabajo final sobre placa IA AMD 
