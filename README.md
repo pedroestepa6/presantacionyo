@@ -1,7 +1,12 @@
 # Carta de Presentación: Pedro Ángel Estepa García  
 **Ingeniero en Tecnologías de Telecomunicación**  
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/)
-
+## 🌟 **Competencias Clave**  
+- **Innovación**: Implementación de soluciones.  
+- **Adaptabilidad**: Trabajo en equipos multidisciplinares.  
+- **Sostenibilidad**: Diseño de sistemas low-power y uso eficiente de recursos.  
+- **Interpretación de información**: Análisis de datos y conciencia de la necesidad.
+📌 **Disponibilidad inmediata para incorporación en proyectos innovadores.**  
 ---
 ## 💻 **Experiencia Profesional**  
 ### **Becario en Desarrollo de Sistemas Embebidos**  
@@ -94,11 +99,4 @@ Se han estudiado diversas herramientas y facilidades para el desarrollo de aplic
 
 ---
 
-## 🌟 **Competencias Clave**  
-- **Innovación**: Implementación de soluciones.  
-- **Adaptabilidad**: Trabajo en equipos multidisciplinares.  
-- **Sostenibilidad**: Diseño de sistemas low-power y uso eficiente de recursos.  
 
----
-
-📌 **Disponibilidad inmediata para incorporación en proyectos innovadores.**  
