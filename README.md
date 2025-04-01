@@ -32,7 +32,7 @@ Captura expediente académico.
 ### **Bachillerato tecnológico (2017-2019) en IES Giner de los Rios (Motril)** 
 
 ### **B1 Inglés Cambridge (2019)**   
-
+---
 ## 🎓**Algunos proyectos finales durante la carrera y el máster (libres):**  
 - **Trabajo Final de Sistemas Electrónicos Digitales (ASIGNATURA DE 3º OBLIGATORIA)**:  
   Desarrollo/Simulación de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.
