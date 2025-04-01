@@ -3,38 +3,74 @@
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/)
 
 ---
+### **Máster Universitario en Ingeniería de Telecomunicación (Actualmente cursando primer año)** 
+*Universidad de Granada*
+Captura expediente académico.
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/3ddac1df-3c37-45ff-9967-912486ff2a78" />
 
 ## 🎓 **Formación Académica**  
-### **Grado en Ingeniería de Tecnologías de Telecomunicación**  
+### **Grado en Ingeniería de Tecnologías de Telecomunicación (2019-2024)**  
 *Universidad de Granada* | Mención en Sistemas de Telecomunicación  
-**Proyectos y asignaturas destacadas:**  
-- **Sistemas Electrónicos Integrados**:  
-  Desarrollo de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.  
+Captura expediente académico.
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/9090ca57-b46c-44ed-99f1-c5db6c963853" />
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/acb50e71-ef34-4367-88a8-82db0bab7e86" />
+
+### **Bachillerato tecnológico (2017-2019)**   
+* IES Giner de los Rios (Motril)* |  
+
+### **B1 Inglés Cambridge (2019)**   
+
+**Algunos proyectos finales durante la carrera y el máster (libres):**  
+- **Trabajo Final de Sistemas Electrónicos Digitales (ASIGNATURA DE 3º OBLIGATORIA)**:  
+  Desarrollo/Simulación de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.
+  ![image](https://github.com/user-attachments/assets/3a458975-9bcf-43a1-95c5-8914725758ec)
+  ![image](https://github.com/user-attachments/assets/9bab16a7-d85e-485a-b220-59e8c0cd6fd0)
+
   - Implementación de interrupciones y temporizadores para control de movimientos.  
-  - Diseño de interfaz gráfica adaptada a recursos limitados.  
+  - Diseño de interfaz gráfica adaptada a recursos limitados.
+ 
+    ![image](https://github.com/user-attachments/assets/4d01950c-9123-4ed7-a566-9cb08791b00c)
 
-- **Programación de Sistemas Empotrados y de Tiempo Real**:  
-  Proyecto final: *Monitorización de parámetros fisiológicos mediante wearables*.  
-  - Integración de sensores con Firebase para almacenamiento en la nube.  
-  - Análisis de señales biomédicas en tiempo real.  
 
-- **Procesamiento Digital de Señales (DSP)**:  
-  Optimización de filtros FIR usando MATLAB Coder para sistemas embebidos.  
+- **Trabajo Final de Programación de Sistemas Empotrados y de Tiempo Real (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS TELEMÁTICOS)**:  
+  Monitorización de parámetros fisiológicos mediante wearables con una plataforma IoT con Arduino.
+  <img width="551" alt="image2" src="https://github.com/user-attachments/assets/87a51c3a-4f38-46bc-84b6-a7ff72e4c16e" />
 
-- **Arquitecturas Avanzadas para Telecomunicaciones**:  
-  Implementación de redes neuronales en FPGAs (AMD Kria) para inferencia en edge computing.  
+Utiliza API de Firebase para almacenamiento en la nube en tiempo real de parámetros fisioógicos: pulso cardiaco y permeabilidad galvánica de la piel.  
+ 
+<img width="507" alt="image3" src="https://github.com/user-attachments/assets/6221fdeb-507d-4109-a2cc-2b69c87cbbb1" />
 
-### **Máster en Ingeniería de Telecomunicación**  
-*Universidad de Granada*  
-**Enfoque:** Electrónica y Telemática  
-- Diseño de sistemas IoT con FPGAs y microcontroladores.  
-- Gestión de proyectos ágiles y metodologías DevOps.  
+Además, se hace experimento con persona random:
+<img width="507" alt="image3" src="https://github.com/user-attachments/assets/7a6d4728-6a20-4779-b4f5-e1ee786f37ab" />
+<img width="617" alt="image4" src="https://github.com/user-attachments/assets/79f59387-caca-482d-99f1-1eec142d6ef4" />
+<img width="616" alt="image5" src="https://github.com/user-attachments/assets/c178ecaf-52ef-4f38-b901-0e995eb13445" />
+
+- **Trabajo final de Arquitecturas Especializadas para Telecomunicaciones (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS ELECTRÓNICOS)**:  
+  MACHINE LEARNING Y MATLAB COMO HERRAMIENTA DE SIMULACIÓN Y DESARROLLO PARA DSP
+- Se profundiza en las herramientas que ofrece MATLAB como entorno de simulación, desarrollo y aprendizazje para DSP (Digital signal processor por ejemplo, de Texas Instruments).
+- Se discuten las distintas técnicas de Machine Learning y aspectos a tener en cuenta para el desarrollo.
+- Se implementan dos ejemplos:
+![image](https://github.com/user-attachments/assets/b502b679-b1ab-4656-9d70-c958add52c50)
+![image](https://github.com/user-attachments/assets/89d05483-ad97-4083-a8e5-6e088dd8c442)
+![image](https://github.com/user-attachments/assets/5b9ad663-dc38-4b7a-a1ab-d4ba2cba1e9f)
+![image](https://github.com/user-attachments/assets/81bec816-f802-42f7-9050-19cc6514d43b)
+![image](https://github.com/user-attachments/assets/68e3d796-82d3-4ea6-9a91-7065873ec710)
+![image](https://github.com/user-attachments/assets/5b389987-b379-4785-ac41-c2195b7b25a7)
+![image](https://github.com/user-attachments/assets/21d23036-8a40-4742-b59f-7f6c62a8e027)
+![image](https://github.com/user-attachments/assets/6edc8ba2-6aa0-4bd4-ab92-31f9ba4f93cd)
+![image](https://github.com/user-attachments/assets/46b15a93-14ed-47f9-86fc-7df07068b3cc)
+
+- **Trabajo final de Procesamiento de Video Digital (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS DE TELECOMUNICACIÓN)**:
+Implementación en MATLAB del paper: "Towards Moment Imagery: Automatic Cinemagraphs"
+  
+- **Trabajo final de Sistemas Electrónicos Integrados (1º Máster Ingeniería Telecomunicación)**:  
+Se han estudiado diversas herramientas y facilidades para el desarrollo de aplicaciones de visión con IA para el KriaKV260 IA Vision Starter Kit (AMD) poniendo como ejemplo la construcción de un sistema de seguridad personalizado con la cámara Intel Realsense. (Plataforma precompilada reduce time to market)
 
 ---
 
 ## 💻 **Experiencia Profesional**  
 ### **Becario en Desarrollo de Sistemas Embebidos**  
-*Easy Innovation Spain (HTEC Group)* | 2023 - Actualidad  
+*Eesy Innovation Spain (HTEC Group)* | 2023   
 **Logros clave:**  
 - **Automatización de drones con NVIDIA Jetson Nano**:  
   - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).  
@@ -43,34 +79,21 @@
 
 - **Smart Tag para la Industria Logística (TFG)**:  
   - Diseño de una etiqueta NFC con sensores de temperatura/humedad (Microcontrolador NGC-1081).  
-  - Desarrollo de una app Android en Kotlin para configuración remota.  
+  - Desarrollo de una app Android en Kotlin para configuración (escritura y lectura de memoria).  
   ![Prototipo Smart Tag](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)  
 
 ---
 
 ## 🛠 **Habilidades Técnicas**  
 - **Programación**: Python, C, MATLAB, Kotlin.  
-- **Plataformas Embebidas**: PIC, Arduino, NVIDIA Jetson, FPGAs (AMD Kria).  
-- **Cloud & IoT**: Firebase, AWS IoT Core.  
-- **Herramientas**: Git, Docker, Altium Designer.  
-
----
-
-## 🚀 **Proyectos Destacados**  
-### **Sistema de Monitorización Biomédica**  
-- Integración de wearables con análisis en la nube para detección de anomalías cardíacas.  
-- Uso de algoritmos de machine learning para clasificación de señales.  
-  ![Análisis de señales ECG](https://github.com/user-attachments/assets/027e8888-7d26-420a-b234-7c0368caf658)  
-
-### **Optimización de Filtros FIR en DSP**  
-- Generación de código C optimizado para microcontroladores usando MATLAB.  
-- Reducción del 40% en tiempo de procesamiento para aplicaciones en tiempo real.  
+- **Plataformas Embebidas**: PIC, Arduino, NVIDIA Jetson, FPGAs, Mikrotik, Antenas.  
+- **Herramientas**: Git.  
 
 ---
 
 ## 🌟 **Competencias Clave**  
-- **Innovación**: Implementación de soluciones IoT en entornos industriales.  
-- **Adaptabilidad**: Trabajo en equipos multidisciplinares (hardware, software, cloud).  
+- **Innovación**: Implementación de soluciones.  
+- **Adaptabilidad**: Trabajo en equipos multidisciplinares.  
 - **Sostenibilidad**: Diseño de sistemas low-power y uso eficiente de recursos.  
 
 ---
