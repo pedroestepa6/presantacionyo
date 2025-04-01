@@ -3,18 +3,18 @@
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/)
 
 ---
+## 🎓 **Formación Académica**  
 ### **Máster Universitario en Ingeniería de Telecomunicación en la Universidad de Granada (Actualmente cursando primer año)** 
 **
 <img width="319" alt="image" src="https://github.com/user-attachments/assets/3ddac1df-3c37-45ff-9967-912486ff2a78" />
 Captura expediente académico.
 
-## 🎓 **Formación Académica**  
 ### **Grado en Ingeniería de Tecnologías de Telecomunicación en la Universidad de Granada (2019-2024)**  
 Mención en Sistemas de Telecomunicación  
-
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9090ca57-b46c-44ed-99f1-c5db6c963853" />
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/acb50e71-ef34-4367-88a8-82db0bab7e86" />
 Captura expediente académico.
+
 ### **Bachillerato tecnológico (2017-2019)**   
 * IES Giner de los Rios (Motril)* |  
 
