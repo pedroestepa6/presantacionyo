@@ -73,8 +73,7 @@ Se han estudiado diversas herramientas y facilidades para el desarrollo de aplic
 *Eesy Innovation Spain (HTEC Group)* | 2023   
 **Logros clave:**  
 - **Automatización de drones con NVIDIA Jetson Nano**:  
-  - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).  
-  - Integración de datos en tiempo real para navegación autónoma.  
+  - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).    
   ![Demo de vuelo autónomo](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)  
 
 - **Smart Tag para la Industria Logística (TFG)**:  
