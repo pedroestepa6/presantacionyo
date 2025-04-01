@@ -61,9 +61,9 @@ Además, se hace experimento con persona random:
 
 - **Trabajo final de Arquitecturas Especializadas para Telecomunicaciones (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS ELECTRÓNICOS)**:  
   MACHINE LEARNING Y MATLAB COMO HERRAMIENTA DE SIMULACIÓN Y DESARROLLO PARA DSP
-- Se profundiza en las herramientas que ofrece MATLAB como entorno de simulación, desarrollo y aprendizazje para DSP (Digital signal processor por ejemplo, de Texas Instruments).
-- Se discuten las distintas técnicas de Machine Learning y aspectos a tener en cuenta para el desarrollo.
-- Se implementan dos ejemplos:
+ - Se profundiza en las herramientas que ofrece MATLAB como entorno de simulación, desarrollo y aprendizazje para DSP (Digital signal processor por ejemplo, de Texas Instruments).
+ - Se discuten las distintas técnicas de Machine Learning y aspectos a tener en cuenta para el desarrollo.
+ - Se implementan dos ejemplos:
 ![image](https://github.com/user-attachments/assets/b502b679-b1ab-4656-9d70-c958add52c50)
 ![image](https://github.com/user-attachments/assets/89d05483-ad97-4083-a8e5-6e088dd8c442)
 ![image](https://github.com/user-attachments/assets/5b9ad663-dc38-4b7a-a1ab-d4ba2cba1e9f)
@@ -79,10 +79,6 @@ Implementación en MATLAB del paper: "Towards Moment Imagery: Automatic Cinemagr
   
 - **Trabajo final de Sistemas Electrónicos Integrados (1º Máster Ingeniería Telecomunicación)**:  
 Se han estudiado diversas herramientas y facilidades para el desarrollo de aplicaciones de visión con IA para el KriaKV260 IA Vision Starter Kit (AMD) poniendo como ejemplo la construcción de un sistema de seguridad personalizado con la cámara Intel Realsense. (Plataforma precompilada reduce time to market)
-
----
-
- 
 
 ---
 
