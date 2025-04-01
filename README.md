@@ -38,6 +38,12 @@ Captura expediente académico.
 
 ### **B1 Inglés Cambridge (2019)**   
 ---
+
+## 🛠 **Habilidades Técnicas**  
+- **Programación**: Python, C, MATLAB, Kotlin.  
+- **Plataformas Embebidas**: Microcontroladores, Arduino, NVIDIA Jetson, FPGAs, DSPs, Mikrotik, Antenas.  
+- **Herramientas**: Git, instrumentación electrónica, circuitos integrados, osciloscopio, VNA, IA generativa, etc.  
+---
 ## 🎓**Algunos proyectos finales durante la carrera y el máster (libres):**  
 - **Trabajo Final de Sistemas Electrónicos Digitales (ASIGNATURA DE 3º OBLIGATORIA)**:  
   Desarrollo/Simulación de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.
@@ -90,12 +96,7 @@ Se han estudiado diversas herramientas y facilidades para el desarrollo de aplic
 - **Trabajo Planificación y Explotación de redes y servicios (1º Máster Ingeniería Telecomunicación)**:
 ![Imagen de WhatsApp 2025-03-29 a las 22 17 17_e0276aa6](https://github.com/user-attachments/assets/4270c7c8-f27d-49ef-a427-4b557a0a858c)
 
----
 
-## 🛠 **Habilidades Técnicas**  
-- **Programación**: Python, C, MATLAB, Kotlin.  
-- **Plataformas Embebidas**: Microcontroladores, Arduino, NVIDIA Jetson, FPGAs, DSPs, Mikrotik, Antenas.  
-- **Herramientas**: Git, instrumentación electrónica, circuitos integrados, osciloscopio, VNA, IA generativa, etc.  
 
 ---
 
