@@ -11,7 +11,7 @@
   - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).    
   ![Demo de vuelo autónomo](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)  
 
-- **Smart Tag para la Industria Logística (TFG)**:  
+- **Etiqueta Inteligente para la Industria de la Paquetería (TFG)**:  
   - Diseño de una etiqueta NFC con sensores de temperatura/humedad (Microcontrolador NGC-1081).  
   - Desarrollo de una app Android en Kotlin para configuración (escritura y lectura de memoria).  
   ![Prototipo Smart Tag](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)
