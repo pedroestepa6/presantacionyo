@@ -53,6 +53,7 @@ Monitorización de parámetros fisiológicos mediante wearables con una platafor
 Utiliza API de Firebase para almacenamiento en la nube en tiempo real de parámetros fisioógicos: pulso cardiaco y permeabilidad galvánica de la piel. 
 ![image](https://github.com/user-attachments/assets/ccc247ad-f4ff-4e43-bd94-65ab3273b7f0)
 Además, se hace experimento con persona random:
+
 <img width="507" alt="image3" src="https://github.com/user-attachments/assets/7a6d4728-6a20-4779-b4f5-e1ee786f37ab" />
 <img width="617" alt="image4" src="https://github.com/user-attachments/assets/79f59387-caca-482d-99f1-1eec142d6ef4" />
 <img width="616" alt="image5" src="https://github.com/user-attachments/assets/c178ecaf-52ef-4f38-b901-0e995eb13445" />
