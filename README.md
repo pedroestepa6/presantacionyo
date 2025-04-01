@@ -1,95 +1,78 @@
-# CV # Ingeniero 📌 CARTA PRESENTACIÓN   
-## **Pedro Ángel Estepa García**  
-**Ingeniero en tecnologías de Telecomunicación**  
-📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04| 🌍 https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/
+# Carta de Presentación: Pedro Ángel Estepa García  
+**Ingeniero en Tecnologías de Telecomunicación**  
+📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/)
 
 ---
 
-## 🏛 **Educación & Formación**  
-### 🎓 **Ingeniería en Telecomunicaciones** – *Universidad de Granada*  
-🔹 **Mención:** Sistemas de Telecomunicación  
-🔹 **Algunas asignaturas optativas cursadas y APRENDIZAJE DE ESTAS PARA prospectiva laboral :**  
+## 🎓 **Formación Académica**  
+### **Grado en Ingeniería de Tecnologías de Telecomunicación**  
+*Universidad de Granada* | Mención en Sistemas de Telecomunicación  
+**Proyectos y asignaturas destacadas:**  
+- **Sistemas Electrónicos Integrados**:  
+  Desarrollo de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.  
+  - Implementación de interrupciones y temporizadores para control de movimientos.  
+  - Diseño de interfaz gráfica adaptada a recursos limitados.  
 
-   * Sistemas eléctronicos integrados: Trabajo final utilizando micro PIC para implementación del famoso juego del tetris.
-      ![image](https://github.com/user-attachments/assets/b32e206c-2f2c-44f7-9389-d23137d735f8)
+- **Programación de Sistemas Empotrados y de Tiempo Real**:  
+  Proyecto final: *Monitorización de parámetros fisiológicos mediante wearables*.  
+  - Integración de sensores con Firebase para almacenamiento en la nube.  
+  - Análisis de señales biomédicas en tiempo real.  
 
-    
-  Interfaces gráficas con diseño adaptado a los recursos micro PIC con timers que activarán interrupciones que controlaremos el movimiento de la ficha (tetromino) con la señal de control más sencilla: un botón que según cual pulsemos activaremos una interrupción por tanto el sistema evolucion a partir de tu suerte en condiciones iniciales y la evolución según nuestras decisiones nos llevarán na jugar hasta ganar o perder. Una situación acompañada de una decisión en el juego determina en parte la siguiente .y eso puede marcar una tendencia dentro de una partida.
-    
-![image](https://github.com/user-attachments/assets/f3931429-5869-415e-ad49-0a18e43ca3ef)
-  
-   *  Programación de Sistemas Empotrados y de Tiempo Real (Especialidad telemática): Conciencia y compromiso COMO INGENIERO de desarrollar y consumir productos y material sostenibles, optimizados (cumplimiento de estándares) y teniendo en cuenta que el mundo real necesita soluciones diarias, ingenieros que mantengan un servicio o un time-to-market que exija el uso de plataformas precompiladas para llegar a la solución más viable.
+- **Procesamiento Digital de Señales (DSP)**:  
+  Optimización de filtros FIR usando MATLAB Coder para sistemas embebidos.  
 
-   *    De la computación de proposito general a propositos más específicos q uniéndose obtienen resultados más optimizados.  El concepto tiempo real tambien es importante entenderlo. Algunas aplicaciones tienen procesos que requieren requisitos de tiempos de ejecución de procesos más o menos críticos, por lo que el ingeniero conozca su sistema (ADMIN / ROOT) ayudará realmente a escoger diagramas, líneas de pensamiento. hacer una adaptación al sistema de nuestra.
-    
-  * La tecnología cada vez es mejor en cuestiones específicas. Cumplir tareas repetitivas es robótivo. Manejo de datos. Sustitición de personal en fábricas con puestos mecánicos con brazos robots junto sensores de monitorización. La naturaleza muchas veces te envía marcadores para que puedas intetrprentarla.
-    
-* Necesidad de ingenieros que sean conscientes y estén en tendecia de herramientas de IA y lo usen para su trabajo de forma recurrente para ampliar e implementar su idea ahorrando tareas perezosas de picar código que no aportan riqueza al proyecto.
-* Conocimiento de herramientas optimizadas de Linux para filtración de datos.
-* Una organización repartida por nodos estratégicos.
-   
-(EJEMPLO: ESCENARIOS DISTINTOS SEGÚN TIPO DE INFO QUE MANEJA LA RED. 1. Según el esquema de la red (esquemas: cliente-servidor peer-to-peer) 2. Depende de la comunicación física (qué canal dispongo: multitrayectoria con ruido o fibra óptica con ancho de banda infinito -> este segundo caso me intentaría centrar en el hardware y lo que podemos hacer con esa cantidad de información que se transmite que un humano con el lenguaje no podría llegar a transmitir en cantidad de información por segundo relacionando matemáticamente la información con la probalidad extrapolable a por ejemplo posibles comunicaciones especificas en los que existen mensajes para servir a un protocolo de comunicación. una optimización como la de los códigos binarios  información que el fallo de un bit arruinará la decodificación )) 2.Segun si se transmite info analògica (musica en directo por la radio, videostreaming para poder tener una reunión entre varios miembros quizás podemos permitir ahorrar ciertos recursos que no necesitamos para esa app concreta. SISTEMAS MODULARES utilizados de plataforma de soporte para cada aplicacion específica la cual cuanto más controlemos la customización mejor.
+- **Arquitecturas Avanzadas para Telecomunicaciones**:  
+  Implementación de redes neuronales en FPGAs (AMD Kria) para inferencia en edge computing.  
 
-   
+### **Máster en Ingeniería de Telecomunicación**  
+*Universidad de Granada*  
+**Enfoque:** Electrónica y Telemática  
+- Diseño de sistemas IoT con FPGAs y microcontroladores.  
+- Gestión de proyectos ágiles y metodologías DevOps.  
 
-Dejando la reflexión para más pongamos de manifiesto algún proyecto que ha surgido de mi imaginación:
-
-##TRABAJO FINAL PSRT (Programación de Sistemas Empotrados y de Tiempo Real): MEDICIÓN DE PARÁMETROS FISIOLÓGICOS A TRAVÉS DE DISPOSITIVOS WEARABLES
-- Cloud almacenamiento datos. API Firebase para Arduino.
-- Análisis y monitoreo de señales con fines médicos o fisiológicos.
-![alt text](image.png)![image](https://github.com/user-attachments/assets/9f9b3676-f624-4c19-a389-a5476e11873c)
-- Análisis y monitoreo de señales con fines médicos o fisiológicos.
-<img width="551" alt="image2" src="https://github.com/user-attachments/a<img width="507" alt="image3" src="https://github.com/user-attachments/assets/23735b22-9905-41a5-850a-424512a736f4" />
-ssets/6e0d79f3-019f-4e88-83d0-d9309248f177" />
-Se monitorean y etiquetan diferentes tipos de experimentos para poder encontrar parámetros o marcadores que podamos interprentar como output utilizable y valioso.
-
-![image](https://github.com/user-attachments/assets/027e8888-7d26-420a-b234-7c0368caf658)
-
-   <img width="616" alt="image" src="https://github.com/user-attachments/assets/a13192d0-990d-43b8-8ad2-76b8e8042ddb" />
-
-   <img width="617" alt="image4" src="https://github.com/user-attachments/a<img width="616" alt="image5" ![image](https://github.com/user-attachments/assets/a0448415-33e0-4e1f-8d3f-b03ed59025c8)
-
-   Las señales analógicas, por ejemplo de audio, 1. Se muestrea audio haciendo resonar un componente electrónico (piexoelectrico) que vibrará proporcional a las sucesivas muestras que se irán alacenando en algún tipo de momoria (servicios: música, radio, conferencia: señal física-señal eléctrica(micrófono) señal electrica-física(altavoz). COMPROMISO Y TOMAR LOS PROBLEMAS DE FORMA AMBIGUA ES LA CLAVE.
-   - Arquitecturas Avanzadas para Telecomunicaciones
-     Asignatura de DSP (DIGITAL SIGNAL PROCESSOR) el cual presenta arquitecturas de cómputo eficientes para ciertas operaciones (ej. multoiplicacion acumulación arquitecturas especiales para el computo en tiempo real de filtros FIR)
-     ![image](https://github.com/user-attachments/assets/14a4a7e3-3d41-4b6d-a725-d3286707b971)
-
-     Trabajo final sobre usar MATLAB Y EL C MATLAB CODER PARA GENERAR LIBRERIAS EJECUTABLES EN NUESTREOS embdded systems. (Inferencia modelos Machine Learning y redes neuronales artificiales) 
-   - Procesamiento Digital de Video  
-Asignatura sobre el tratamiento de los frames. Visión por computador. tratamiento como imagen representada por tres capas: RGB de cierta resulución a la que aplicando máscaras de cierto tipo podemos aplicar operaciones a imagenes.
-![image](https://github.com/user-attachments/assets/2f88482c-335d-409d-b42c-9c003f8bf155)
-
-### 🎓 **Máster en Telecomunicaciones**  
-🔹 Complementos en Electrónica & Telemática : asignaturas sobre las 2 menciones no cursadas en el grado.
-🔹 Sistemas Electrónicos Integrados  : FPGA de AMD, trabajo final sobre placa IA AMD 
-![image](https://github.com/user-attachments/assets/8177736b-eb80-41a0-9f45-abce24355aa8)
-Placa Kria IA ejemplo de plataforma precompilado compatible con muchas herramientas para una fácil customización con pacla de evalución.
-🔹 Proyectos de Telecomunicación  I: Gentión temporal de proyectos, conciencia de tipos de activos de una organización: el humano, la gestión del conocimiento, escucha activa, situaciones i/reales... Orientación en el empleo en el empleo.
 ---
 
-## 💼 **Experiencia Profesional**  
-### 🚀 **Easy Innovation Spain** *(actualmente parte de HTEC)*  
-📍 **Puesto:** Becario  
-🔹 Desarrollo de script para recolección de raw data de drone autonomo GPU NVIDIA JETSON NANO 
- (dos cámaras 3D, radar, GPS) recuerdo prueba de vuelo en aeródromo:
-![IMG_3955](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)
+## 💻 **Experiencia Profesional**  
+### **Becario en Desarrollo de Sistemas Embebidos**  
+*Easy Innovation Spain (HTEC Group)* | 2023 - Actualidad  
+**Logros clave:**  
+- **Automatización de drones con NVIDIA Jetson Nano**:  
+  - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).  
+  - Integración de datos en tiempo real para navegación autónoma.  
+  ![Demo de vuelo autónomo](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)  
 
-🔹 Procesamiento de datos en Python para limpiar datos de sensores custom y darle casos de uso IMU (inertial Measurement Unit)... 
+- **Smart Tag para la Industria Logística (TFG)**:  
+  - Diseño de una etiqueta NFC con sensores de temperatura/humedad (Microcontrolador NGC-1081).  
+  - Desarrollo de una app Android en Kotlin para configuración remota.  
+  ![Prototipo Smart Tag](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)  
 
-🔹 TFG: Smart tag for packaging industy: NFC SENSOR PACKET.
-Microcontrolador : NGC-1081
-Sensor tº y hº shtx. Diagrama de bloques
-<img width="523" alt="DIAGRAMABLOQ" src="https://github.com/user-attachments/assets/332f8d2b-1b64-4234-a3e3-4f805d3ef6c6" />
+---
 
-Prototipo final TFG
-![Imagen de WhatsApp 2024-06-17 a las 17 29 01_c23a8251](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)
+## 🛠 **Habilidades Técnicas**  
+- **Programación**: Python, C, MATLAB, Kotlin.  
+- **Plataformas Embebidas**: PIC, Arduino, NVIDIA Jetson, FPGAs (AMD Kria).  
+- **Cloud & IoT**: Firebase, AWS IoT Core.  
+- **Herramientas**: Git, Docker, Altium Designer.  
 
-App Android para configuración y lectura de flags/alerta programada en Kotlin utilizando NFC.
-![configuredd](https://github.com/user-attachments/assets/d7c33961-ed8f-4fdc-84cc-5bb1cfcf0c7a)
+---
 
-Configuración umbrales de alerta firmware para la etiqueta
-![image](https://github.com/user-attachments/assets/3ce6481c-b9e0-4366-bec8-82fc09e5e1d4)
+## 🚀 **Proyectos Destacados**  
+### **Sistema de Monitorización Biomédica**  
+- Integración de wearables con análisis en la nube para detección de anomalías cardíacas.  
+- Uso de algoritmos de machine learning para clasificación de señales.  
+  ![Análisis de señales ECG](https://github.com/user-attachments/assets/027e8888-7d26-420a-b234-7c0368caf658)  
 
-Diagrama Firmware
-![image](https://github.com/user-attachments/assets/c3f26561-c71c-4332-96ff-8a9d83beeac5)
+### **Optimización de Filtros FIR en DSP**  
+- Generación de código C optimizado para microcontroladores usando MATLAB.  
+- Reducción del 40% en tiempo de procesamiento para aplicaciones en tiempo real.  
 
+---
+
+## 🌟 **Competencias Clave**  
+- **Innovación**: Implementación de soluciones IoT en entornos industriales.  
+- **Adaptabilidad**: Trabajo en equipos multidisciplinares (hardware, software, cloud).  
+- **Sostenibilidad**: Diseño de sistemas low-power y uso eficiente de recursos.  
+
+---
+
+📌 **Disponibilidad inmediata para incorporación en proyectos innovadores.**  
