@@ -1,5 +1,5 @@
 # Carta de Presentación: Pedro Ángel Estepa García  
-## 📡 **Ingeniero en Tecnologías de Telecomunicación**  
+## 📡 **Ingeniero en Sistemas de Telecomunicación**  
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/) | 📌Granada
 ## 🌟 **Competencias Clave**  
 - **Innovación**: Implementación de soluciones.  
