@@ -59,6 +59,8 @@ Además, se hace experimento con persona random:
 <img width="616" alt="image5" src="https://github.com/user-attachments/assets/c178ecaf-52ef-4f38-b901-0e995eb13445" />
 <img width="616" alt="image5" src="https://github.com/user-attachments/assets/7e06af0e-5336-4c7b-b010-8694a4478956)" />
 
+![image](https://github.com/user-attachments/assets/c926b1a6-fec9-47e2-892f-931836068e92)
+
 - **Trabajo final de Arquitecturas Especializadas para Telecomunicaciones (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS ELECTRÓNICOS)**:  
   MACHINE LEARNING Y MATLAB COMO HERRAMIENTA DE SIMULACIÓN Y DESARROLLO PARA DSP
  - Se profundiza en las herramientas que ofrece MATLAB como entorno de simulación, desarrollo y aprendizazje para DSP (Digital signal processor por ejemplo, de Texas Instruments).
@@ -79,6 +81,9 @@ Implementación en MATLAB del paper: "Towards Moment Imagery: Automatic Cinemagr
   
 - **Trabajo final de Sistemas Electrónicos Integrados (1º Máster Ingeniería Telecomunicación)**:  
 Se han estudiado diversas herramientas y facilidades para el desarrollo de aplicaciones de visión con IA para el KriaKV260 IA Vision Starter Kit (AMD) poniendo como ejemplo la construcción de un sistema de seguridad personalizado con la cámara Intel Realsense. (Plataforma precompilada reduce time to market)
+
+- **Trabajo Planificación y Explotación de redes y servicios (1º Máster Ingeniería Telecomunicación)**:
+![Imagen de WhatsApp 2025-03-29 a las 22 17 17_e0276aa6](https://github.com/user-attachments/assets/4270c7c8-f27d-49ef-a427-4b557a0a858c)
 
 ---
 
