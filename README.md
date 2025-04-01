@@ -3,6 +3,20 @@
 📧 estepagarciapedroangel@gmail.com | 📞 +34 622 90 30 04 | 🌍 [LinkedIn](https://www.linkedin.com/in/pedro-%C3%A1ngel-estepa-garc%C3%ADa-454140294/)
 
 ---
+## 💻 **Experiencia Profesional**  
+### **Becario en Desarrollo de Sistemas Embebidos**  
+*Eesy Innovation Spain (HTEC Group)* | 2023   
+**Logros clave:**  
+- **Automatización de drones con NVIDIA Jetson Nano**:  
+  - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).    
+  ![Demo de vuelo autónomo](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)  
+
+- **Smart Tag para la Industria Logística (TFG)**:  
+  - Diseño de una etiqueta NFC con sensores de temperatura/humedad (Microcontrolador NGC-1081).  
+  - Desarrollo de una app Android en Kotlin para configuración (escritura y lectura de memoria).  
+  ![Prototipo Smart Tag](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)
+---
+
 ## 🎓 **Formación Académica**  
 ### **Máster Universitario en Ingeniería de Telecomunicación en la Universidad de Granada (Actualmente cursando primer año)** 
 
@@ -15,12 +29,11 @@ Mención en Sistemas de Telecomunicación
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/acb50e71-ef34-4367-88a8-82db0bab7e86" />
 Captura expediente académico.
 
-### **Bachillerato tecnológico (2017-2019)**   
-* IES Giner de los Rios (Motril)* |  
+### **Bachillerato tecnológico (2017-2019) en IES Giner de los Rios (Motril)** 
 
 ### **B1 Inglés Cambridge (2019)**   
 
-**Algunos proyectos finales durante la carrera y el máster (libres):**  
+## 🎓**Algunos proyectos finales durante la carrera y el máster (libres):**  
 - **Trabajo Final de Sistemas Electrónicos Digitales (ASIGNATURA DE 3º OBLIGATORIA)**:  
   Desarrollo/Simulación de un sistema embebido para el juego *Tetris* usando microcontroladores PIC.
   ![image](https://github.com/user-attachments/assets/3a458975-9bcf-43a1-95c5-8914725758ec)
@@ -68,18 +81,7 @@ Se han estudiado diversas herramientas y facilidades para el desarrollo de aplic
 
 ---
 
-## 💻 **Experiencia Profesional**  
-### **Becario en Desarrollo de Sistemas Embebidos**  
-*Eesy Innovation Spain (HTEC Group)* | 2023   
-**Logros clave:**  
-- **Automatización de drones con NVIDIA Jetson Nano**:  
-  - Desarrollo de scripts en Python para procesamiento de datos de sensores (IMU, cámaras 3D, GPS).    
-  ![Demo de vuelo autónomo](https://github.com/user-attachments/assets/9b3f566d-aead-424b-aebb-1d615622b115)  
-
-- **Smart Tag para la Industria Logística (TFG)**:  
-  - Diseño de una etiqueta NFC con sensores de temperatura/humedad (Microcontrolador NGC-1081).  
-  - Desarrollo de una app Android en Kotlin para configuración (escritura y lectura de memoria).  
-  ![Prototipo Smart Tag](https://github.com/user-attachments/assets/cd76b2a4-6efa-4110-9c06-4f14d130cec7)  
+ 
 
 ---
 
