@@ -5,7 +5,7 @@
 ---
 ## 🎓 **Formación Académica**  
 ### **Máster Universitario en Ingeniería de Telecomunicación en la Universidad de Granada (Actualmente cursando primer año)** 
-**
+
 <img width="319" alt="image" src="https://github.com/user-attachments/assets/3ddac1df-3c37-45ff-9967-912486ff2a78" />
 Captura expediente académico.
 
@@ -33,13 +33,12 @@ Captura expediente académico.
 
 
 - **Trabajo Final de Programación de Sistemas Empotrados y de Tiempo Real (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS TELEMÁTICOS)**:  
-  Monitorización de parámetros fisiológicos mediante wearables con una plataforma IoT con Arduino.
-  <img width="551" alt="image2" src="https://github.com/user-attachments/assets/87a51c3a-4f38-46bc-84b6-a7ff72e4c16e" />
+Monitorización de parámetros fisiológicos mediante wearables con una plataforma IoT con Arduino.
 
-Utiliza API de Firebase para almacenamiento en la nube en tiempo real de parámetros fisioógicos: pulso cardiaco y permeabilidad galvánica de la piel.  
- 
-<img width="507" alt="image3" src="https://github.com/user-attachments/assets/6221fdeb-507d-4109-a2cc-2b69c87cbbb1" />
+<img width="551" alt="image2" src="https://github.com/user-attachments/assets/87a51c3a-4f38-46bc-84b6-a7ff72e4c16e" />
 
+Utiliza API de Firebase para almacenamiento en la nube en tiempo real de parámetros fisioógicos: pulso cardiaco y permeabilidad galvánica de la piel. 
+![image](https://github.com/user-attachments/assets/ccc247ad-f4ff-4e43-bd94-65ab3273b7f0)
 Además, se hace experimento con persona random:
 <img width="507" alt="image3" src="https://github.com/user-attachments/assets/7a6d4728-6a20-4779-b4f5-e1ee786f37ab" />
 <img width="617" alt="image4" src="https://github.com/user-attachments/assets/79f59387-caca-482d-99f1-1eec142d6ef4" />
@@ -59,6 +58,7 @@ Además, se hace experimento con persona random:
 ![image](https://github.com/user-attachments/assets/21d23036-8a40-4742-b59f-7f6c62a8e027)
 ![image](https://github.com/user-attachments/assets/6edc8ba2-6aa0-4bd4-ab92-31f9ba4f93cd)
 ![image](https://github.com/user-attachments/assets/46b15a93-14ed-47f9-86fc-7df07068b3cc)
+![image](https://github.com/user-attachments/assets/ebfbba7e-a288-402f-8d54-b7fda849d083)
 
 - **Trabajo final de Procesamiento de Video Digital (Asignatura optativa de 4º ESPECIALIDAD SISTEMAS DE TELECOMUNICACIÓN)**:
 Implementación en MATLAB del paper: "Towards Moment Imagery: Automatic Cinemagraphs"
