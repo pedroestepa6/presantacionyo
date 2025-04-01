@@ -5,8 +5,8 @@
 ---
 ### **Máster Universitario en Ingeniería de Telecomunicación (Actualmente cursando primer año)** 
 *Universidad de Granada*
-Captura expediente académico.
 <img width="319" alt="image" src="https://github.com/user-attachments/assets/3ddac1df-3c37-45ff-9967-912486ff2a78" />
+Captura expediente académico.
 
 ## 🎓 **Formación Académica**  
 ### **Grado en Ingeniería de Tecnologías de Telecomunicación (2019-2024)**  
@@ -85,8 +85,8 @@ Se han estudiado diversas herramientas y facilidades para el desarrollo de aplic
 
 ## 🛠 **Habilidades Técnicas**  
 - **Programación**: Python, C, MATLAB, Kotlin.  
-- **Plataformas Embebidas**: PIC, Arduino, NVIDIA Jetson, FPGAs, Mikrotik, Antenas.  
-- **Herramientas**: Git.  
+- **Plataformas Embebidas**: Microcontroladores, Arduino, NVIDIA Jetson, FPGAs, DSPs, Mikrotik, Antenas.  
+- **Herramientas**: Git, instrumentación electrónica, circuitos integrados, osciloscopio, VNA, IA generativa, etc.  
 
 ---
 
