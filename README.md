@@ -6,7 +6,7 @@
 - **Adaptabilidad**: Trabajo en equipos multidisciplinares.  
 - **Sostenibilidad**: Diseño de sistemas low-power y uso eficiente de recursos.  
 - **Interpretación de información**: Análisis de datos y conciencia de la necesidad.
-📌 **Disponibilidad inmediata para incorporación en proyectos innovadores.**  
+## 📌 **Disponibilidad inmediata para incorporación en proyectos innovadores.**  
 ---
 ## 💻 **Experiencia Profesional**  
 ### **Becario en Desarrollo de Sistemas Embebidos**  
